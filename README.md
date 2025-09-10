@@ -1,0 +1,2 @@
+# non-deterministic-unsupervised-nn-Heteroscedastic-Stochastic-Embedding-Network-HSEN-
+PyTorch implementation and report for a Non-Deterministic Unsupervised Neural Network model. Compares Heteroscedastic Stochastic Embedding Network (HSEN) against Variational Autoencoder (VAE) and Autoencoder (AE) on a kidney disease dataset for clustering and dimensionality reduction. Includes code, results, visualizations, and LaTeX report.
